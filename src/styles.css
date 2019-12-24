@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+/* body .ui-button {
+    margin: 0;
+    color: #ffffff;
+    background-color: #ff8c00 !important;
+    border: 1px solid #ff8c00 !important;
+    font-size: 14px;
+    transition: background-color 0.2s, box-shadow 0.2s;
+} */
+.clr{
+    background: #ff8c00 !important;
+    border: 1px solid #ff8c00 !important;
+
+}
+* {
+    box-sizing: border-box;
+}
+ 
+body,
+html {
+    height: 100%;
+    min-height: 100%;
+}
+ 
+body {
+    font-family: 'Roboto',
+    sans-serif;
+    margin: 0;
+    background-color: #e7e7e7;
+}
